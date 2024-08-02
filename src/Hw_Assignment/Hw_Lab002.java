@@ -21,6 +21,9 @@ public class Hw_Lab002 {
             } else if (i % 5 == 0){
                 System.out.println(i +" Buzz");
             }
+//            else{
+//                 System.out.println(i);
+//             }
         }
     }
 }
